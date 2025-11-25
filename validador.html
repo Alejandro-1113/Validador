@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Validador de Registro</title>
+    <link rel="stylesheet" href="validador.css" />
+</head>
+<body>
+    <div class="container">
+        <h2>Registro</h2>
+
+        <form id="form">
+            <label>Nombre</label>
+            <input type="text" id="nombre" />
+            <p class="error" id="error-nombre"></p>
+
+            <label>Email</label>
+            <input type="email" id="email" />
+            <p class="error" id="error-email"></p>
+
+            <label>Contraseña</label>
+            <input type="password" id="password" />
+            <p class="error" id="error-password"></p>
+
+            <label>Confirmar contraseña</label>
+            <input type="password" id="confirm" />
+            <p class="error" id="error-confirm"></p>
+
+            <button type="submit">Registrarse</button>
+        </form>
+    </div>
+
+    <script src="validador.js"></script>
+</body>
+</html>
