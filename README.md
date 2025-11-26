@@ -17,7 +17,8 @@ Cada campo muestra **mensajes de error específicos** mientras el usuario escrib
 - CSS3  
 - JavaScript (validación en tiempo real)
 
-## 📦 Cómo ejecutar
+##  Cómo ejecutar
 
-1. Clona el repositorio  
+validador-c3aa.vercel.app
+
 
