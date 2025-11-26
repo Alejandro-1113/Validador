@@ -19,6 +19,6 @@ Cada campo muestra **mensajes de error específicos** mientras el usuario escrib
 
 ##  Cómo ejecutar
 
-validador-c3aa.vercel.app
+https://validador-c3aa.vercel.app/
 
 
